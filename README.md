@@ -6,3 +6,6 @@ This repository contains the code and findings from my Exploratory Data Analysis
 Explored key patterns in engineering graduate employment outcomes.
 Investigated correlations between various factors and job success.
 Identified valuable insights for future decisions in the field.
+
+## Publication:
+https://medium.com/@svani4830/unveiling-career-insights-exploratory-data-analysis-of-the-amcat-dataset-93978af8f37f
